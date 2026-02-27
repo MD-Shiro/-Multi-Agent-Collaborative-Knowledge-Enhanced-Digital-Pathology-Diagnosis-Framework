@@ -1,0 +1,5 @@
+🧬 Multi-Agent Collaborative & Knowledge-Enhanced Digital Pathology Diagnosis Framework
+First systematic Agentic AI implementation for digital pathology: orchestrating specialist agents
+(WSI, IHC, Molecular, Radiology-Pathology) with evidence-based knowledge retrieval (WHO 2024, NCCN/CAP). 
+Features BPMN workflow orchestration, zero-cost API integration for legacy models, and human-in-the-loop governance.
+🚧 Continuously updating / Work in progress
