@@ -3,3 +3,4 @@ First systematic Agentic AI implementation for digital pathology: orchestrating 
 (WSI, IHC, Molecular, Radiology-Pathology) with evidence-based knowledge retrieval (WHO 2024, NCCN/CAP). 
 Features BPMN workflow orchestration, zero-cost API integration for legacy models, and human-in-the-loop governance.
 🚧 Continuously updating / Work in progress
+Updated: 2026-02-27
